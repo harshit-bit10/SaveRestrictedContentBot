@@ -6,9 +6,9 @@ services:
     build: .
     command: bash bash.sh
     environment:
-      API_ID: # Your API HASH from my.telegram.org
-      API_HASH: # Your API ID from my.telegram.org
-      BOT_TOKEN: # Bot token, get it from @BotFather 
+      API_ID: 27190467
+      API_HASH: ff6bc6ad2faba520f426cf04ca7f5773
+      BOT_TOKEN: 7280987879:AAEE6tQPBp4jNTHosgvqnvMdPkuBEZy733g 
       SESSION: # Pyrogram string session
-      AUTH: # User ID of Bot owner
-      FORCESUB: # Username name of public channel without using '@'
+      AUTH: 6066102279
+      FORCESUB: sharktoonsindia
